@@ -1,2 +1,2 @@
 # URI-online-judge
-Problems solved
+URI Exercise Solutions
